@@ -8,7 +8,7 @@ For more information on the calculation used, see [this article](https://www.gps
 ## Installing with NPM
 
 ```
-npm install --save @tcallsen/gpxCalcElevationGain
+npm i --save gpx-calc-elevation-gain
 ```
 
 ## Example

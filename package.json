@@ -1,6 +1,6 @@
 {
   "name": "gpx-calc-elevation-gain",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Module that calculates a simple elevation gain for GPX routes.",
   "main": "gpxCalcElevationGain.js",
   "scripts": {},
