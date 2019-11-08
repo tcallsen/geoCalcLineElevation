@@ -3,7 +3,7 @@ Calculates the total elevation gain for GPX routes. Elevation data must be suppl
 
 The final result is in the same units as the original source data.. likely meters if sourced from Strava.
 
-For more information on the calculation used, see !(https://www.gpsvisualizer.com/tutorials/elevation_gain.html "this article").
+For more information on the calculation used, see [this article](https://www.gpsvisualizer.com/tutorials/elevation_gain.html "this article").
 
 ## Installing with NPM
 
