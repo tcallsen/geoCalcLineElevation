@@ -1,7 +1,7 @@
 {
   "name": "geoCalcLineElevation",
   "version": "0.1.0",
-  "description": "Module that calculates the elevation gain for GPX and GeoJSON routes.",
+  "description": "Module that calculates a simple elevation gain for GPX routes.",
   "main": "geoCalcLineElevation.js",
   "scripts": {},
   "engines": {
