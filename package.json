@@ -1,0 +1,20 @@
+{
+  "name": "geoCalcLineElevation",
+  "version": "0.1.0",
+  "description": "Module that calculates the elevation gain for GPX and GeoJSON routes.",
+  "main": "geoCalcLineElevation.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.dev.gritto.net:8888/taylor/geoCalcLineElevation.git"
+  },
+  "author": "Taylor Callsen",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/togeojson": "^0.16.0",
+    "xmldom": "^0.1.27"
+  }
+}
