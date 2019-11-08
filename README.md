@@ -14,7 +14,7 @@ npm i --save gpx-calc-elevation-gain
 ## Example
 ```
 // load dependencies 
-const gpxCalcElevationGain = require('gpxCalcElevationGain.js')
+const gpxCalcElevationGain = require('gpx-calc-elevation-gain')
 const fs = require('fs')
 
 // open sample file
