@@ -1,11 +1,10 @@
 {
   "name": "gpx-calc-elevation-gain",
-  "version": "0.1.2",
+  "version": "2.0.0",
   "description": "Module that calculates a simple elevation gain for GPX routes.",
   "main": "gpxCalcElevationGain.js",
-  "scripts": {},
-  "engines": {
-    "node": ">=8.9.0"
+  "scripts": {
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +15,8 @@
   "dependencies": {
     "@mapbox/togeojson": "^0.16.0",
     "xmldom": "^0.1.27"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
